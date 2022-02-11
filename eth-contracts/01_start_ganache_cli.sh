@@ -1,0 +1,1 @@
+ganache-cli --accounts 4 --defaultBalanceEther 1000 -m "other image wheel spirit guard add heavy dove bullet north good toe" -l 8000000
